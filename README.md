@@ -40,7 +40,6 @@
 
 ## 🔧 其他專案
 
-- **[rosia-memory-mvp](https://github.com/ruienxie0104/rosia-memory-mvp)** — AI Agent 記憶治理層：SQLite FTS5 + governance pipeline + eval framework（決定什麼記憶該注入、什麼該擋）
 - **[agent-memory-survey](https://github.com/ruienxie0104/agent-memory-survey)** — Agent memory 機制每日文獻調查（architecture/governance/eval/retrieval 七主題輪替）
 
 ---
