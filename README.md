@@ -28,7 +28,6 @@
 **[WebMCP Demo](https://github.com/ruienxie0104/webmcp-bookstore-demo)** · [🌐 線上 Demo](https://ruienxie0104.github.io/webmcp-bookstore-demo/) — 研究公司在 WebMCP（W3C 草案）上的 agent-網站整合：把網站資料用 `document.modelContext.registerTool()` 註冊成 agent 可查詢的 read-only tools，並自製了完整的公開展示專案——**契約先行設計、結構化錯誤、原生/模擬雙模式、三層驗證、Agent Console 面板**；在公司內部原型上驗證過 token 消耗 −50%。
 
 ### 日月光半導體 ASE — 產學合作 ×2
-- **[2026-ASE](https://github.com/ruienxie0104/2026-ASE)** AI 部門（2026）：內部 Agent 系統建置（需求→架構→部署→維運）
 - MES 部門（2025–2026）：後端 API 開發 + **LLM 整合自動改寫目標程式碼片段**
 
 ### 國衛院 NHRI — 腎臟病風險評估（見上）
